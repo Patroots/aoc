@@ -12,3 +12,4 @@
 /Users/patrick/code/aoc/2023/day1/obj/Debug/net8.0/day1.pdb
 /Users/patrick/code/aoc/2023/day1/obj/Debug/net8.0/day1.genruntimeconfig.cache
 /Users/patrick/code/aoc/2023/day1/obj/Debug/net8.0/ref/day1.dll
+/Users/patrick/code/aoc/2023/day1/obj/Debug/net8.0/day1.sourcelink.json
